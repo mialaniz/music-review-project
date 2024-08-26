@@ -16,7 +16,7 @@ public class ProjectArtifactApplication {
 
 	@GetMapping("/hello")
 	public String hello() {
-		return "hello moto";
+		return "hello";
 
 	}
 
