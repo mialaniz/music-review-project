@@ -4,6 +4,8 @@ import org.apache.catalina.User;
 import org.springframework.stereotype.Service;
 import java.util.*;
 
+
+//holds the list of users.s
 @Service
 public class UserService {
     
